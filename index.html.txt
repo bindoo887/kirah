@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>CapCut - Video Editing App</title>
+</head>
+<body>
+ <h1>CapCut - Video Editing App</h1>
+ <p>CapCut ek powerful video editing app hai jo aapko apne videos ko professionally edit karne mein madad karta hai.</p>
+</body>
+</html>
